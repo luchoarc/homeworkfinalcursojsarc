@@ -1,0 +1,20 @@
+{
+  "name": "node-js-geoposicionamientos",
+  "version": "1.0.0",
+  "description": "Sample Node.js app using Server Express",
+  "main": "server2.js",
+  "scripts": {
+    "start": "node server2.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "javascript"
+  ],
+  "author": "Luis Hernández Salazar",
+  "license": "MIT"
+}
